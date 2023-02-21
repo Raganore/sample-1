@@ -1,0 +1,673 @@
+body
+{
+    margin: 0;
+    background-color: gainsboro;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+}
+p
+{
+   color: #767676;
+}
+.front
+{
+    display: flex;
+    gap: 30px;
+    margin: auto;
+    margin-top: 10px;
+}
+.s1
+{
+    width: 230px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    background-color: white;
+    margin-left: 10px;
+}
+.fa-brands:hover
+{
+     color: #FFB400;
+     transition: 0.5s;
+}
+.raya
+{
+    text-align: center;
+
+}
+.muza
+{
+    width: 128px;
+    padding-top: 6%;
+}
+.mac
+{
+    font-size: 30px;
+}
+.extra
+{
+    text-align: center;
+}
+.spar
+{
+    text-align: center;
+    padding: 20px;
+    display: inline-flex;
+    border-bottom: 1px solid;
+    border-color: gray;
+}
+.bd
+{
+    background-color: #FFB400;
+    width: fit-content;
+}
+.res 
+{
+    margin-left: 10px;
+}
+.ban
+{
+    text-align: center;
+    
+}
+.way
+{
+    border: 1px solid #FFB400;
+    margin: auto;
+    width: 79%;
+    border-radius: 3px ;
+}
+.raw{
+    background-color: #FFB400;
+    width: 100%;
+    height: 5px;
+}
+.raw2{
+    background-color: #FFB400;
+    width: 80%;
+    height: 5px;
+}
+.raw3{
+    background-color: #FFB400;
+    width: 60%;
+    height: 5px;
+}
+.cv
+{
+    background-color: #FFB400;
+    padding: 8px 22px;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.cv:hover
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    color: #FFB400;
+    transition: 0.5s;
+}
+
+
+.sheet2
+{
+    width: 68%;  
+    position: relative;
+   
+}
+.deve{
+    
+    height: 410px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.varia
+{
+    position: absolute;
+    top: 44px;
+    left: 50px;
+    right: 516px;
+}
+.andrew
+{
+    right: 20px;
+    top: 12px;
+    width: 283px;
+    position: absolute;
+}
+.row
+{
+    padding: 17px;
+    margin-top: 30px;
+    border: none;
+    background-color: #FFB400;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+
+}
+.row:hover{
+    background-color: whitesmoke;
+    color:#FFB400;
+    transition: 0.5s;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.services
+{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 30%;
+    padding-top: 10%;
+}
+.game
+{
+    display: flex;
+    width: 100%;
+    column-gap: 25px;
+}
+.Webdevelopment
+{
+    text-align: center;
+    background-color: white;
+    width: 37%;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.slog
+{
+    font-size: 90px;
+    margin-top: 11%;
+}
+.ui
+{
+    text-align: center;
+    background-color: white;
+    width: 37%;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.ui2
+{
+    text-align: center;
+    background-color: white;
+    width: 37%;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.adver
+{
+     display: flex;
+     column-gap: 25px;
+     width: 100%;
+     margin-top: 5%;
+}
+.fa-solid:hover{
+    color: #FFB400;
+    transition: 0.5s;
+}
+.graph
+{
+    text-align: center;
+    background-color: white;
+    width: 37%;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.graph2
+{
+    text-align: center;
+    background-color: white;
+    width: 37%;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.photo
+{
+    font-size: 90px;
+    margin-top: 11%;
+}
+.sheet3
+{
+    height: auto;
+    width: 124px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.caf
+{
+    font-size: 40px;
+    margin-top: 100px;
+}
+.caf:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}
+.sam:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}
+.sam2:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}.sam3:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}.sam4:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}.sam5:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}
+.sam6:hover
+{
+    color: #FFB400;
+    transition: 0.5s;
+}
+.sam
+{
+    font-size: 30px;
+    margin-top: 100%;
+}
+.sam2
+{
+    font-size: 30px;
+    margin-top: 60%;
+}
+.sam3
+{
+    font-size: 30px;
+    margin-top: 60%;
+}
+.sam4
+{
+    font-size: 30px;
+    margin-top: 60%;
+}
+.sam5
+{
+    font-size: 30px;
+    margin-top: 60%;
+}
+.sam6
+{
+    font-size: 30px;
+    margin-top: 60%;
+}
+.feat
+{
+    margin-top: 3cm;
+}
+.info
+{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+
+}
+.box
+{
+    background-color: white;
+    width: 320px;
+    height: auto;
+    border-radius: 3px;
+    padding: 1px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.put
+{
+    margin-left: 10px;
+}
+.new 
+{
+    background-color: gainsboro;
+    border: none;
+    font-size: 15px;
+    padding: 10px 60px 10px 22px;
+}
+.new1
+{
+    background-color: gainsboro;
+    border: none;
+    font-size: 15px;
+    height: auto;
+    width: 192px;
+    padding: 0px 71px 0px 10px;
+
+}
+.ve-container
+{
+    background-color: #FFB400;
+    padding: 10px 17px;
+    border: none;
+    border-radius: 3px;  
+    margin-top: 35px;
+}
+.count 
+{
+    background-color: white;
+    width: 290px;
+    height: auto;
+    border-radius: 3px;
+    padding: 1px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.shif 
+{
+    justify-content: space-between;
+    display: flex;
+}
+.dhaka
+{
+    text-align: right;
+    margin-right: 11px;
+}
+.say
+{
+    display: grid;
+    row-gap: 10px;
+}
+.price
+{
+    text-align: center;
+    width: 391px;
+    margin: auto;
+}
+.dolar
+{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+}
+.silver
+{
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 2px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.hour
+{
+    font-size: 12px;
+    margin-left: 11px;
+}
+.rit
+{
+    margin-left: 35px;
+    text-align: left;
+    display: grid;
+    gap: 20px;
+}
+.de
+{
+    margin-left: 10px;
+}
+.fe2
+{
+    margin-left: 3px;
+    color: #767676;
+}
+.neow
+{
+    border: none;
+    color: #2B2B2B;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 30px;
+    padding: 10px 35px;
+}
+.ow 
+{
+    margin-top: 20px;
+}
+.Gold
+{
+    height: auto;
+    padding: 20px;
+    border-radius: 2px;
+    width: 270px;
+    position: relative;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.neow2
+{
+    border: none;
+    color: #2B2B2B;
+    background-color: #FFB400;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 30px;
+    padding: 10px 35px;
+}
+.pa 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #FFB400;
+    height: 19px;
+    width: 310px;
+}
+.daimond
+{
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 2px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.reco
+{
+    text-align: center;
+}
+.vaw
+{
+    width: 402px;
+    margin: auto;
+}
+.jack
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px;
+}
+.james
+{
+    background-color: white;
+    width: 290px;
+    padding: 15px;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.ray
+{
+    color: #FFB400;
+}
+.rdj
+{
+    display: flex;
+    gap: 40px;
+}
+.depp
+{
+    text-align: center;
+}
+.edu
+{
+    text-align: center;
+    width: 402px;
+    margin: auto;
+}
+.ray2
+{
+    color: #FFB400;
+    display: flex;
+    gap: 10px;
+    font-size: 8px;
+    width: 40px;
+    margin: auto;
+    padding-top: 40px;
+}
+.train
+{
+    width: 750px;
+    padding: 40px;
+   margin: auto;
+   height: auto;
+   background-color: white;
+   box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+   
+}
+.toronto
+{
+    display: flex;
+    gap: 26px;
+    border-bottom: 2px solid #F0F0F6;
+}
+.toronto2
+{
+    display: flex;
+    gap: 26px;
+}
+.work
+{
+    text-align: center;
+    width: 402px;
+    margin: auto;
+}
+.lead
+{
+    width: 750px;
+    padding: 40px;
+   margin: auto;
+   height: auto;
+   background-color: white;
+   box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+   
+}
+.junior
+{
+    display: flex;
+    border-bottom: 2px solid #F0F0F6;
+}
+.rawl{
+    text-align: center;
+}
+.cat
+{
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 8px 27px;
+} 
+.cat:hover
+{
+    color:#FFB400;
+    transition: 0.3s;
+}
+.neow:hover
+{
+    background-color: #FFB400;
+    color: white;
+    transition: 0.5s;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.neow2:hover
+{
+    background-color: white;
+    color: #FFB400;
+    transition: 0.5s;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.feg img
+{
+    border:none;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+}
+.pex:hover
+
+{
+    opacity: 0.5;
+    transition: 0.1s;
+}
+.feg
+{
+    display: grid;
+    margin-top: 50px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+.seb
+{
+    width: 70%;
+    height: auto;
+    margin: auto;
+
+}
+.wap
+{
+    width: 20%;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.waps-container
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    position: absolute;
+    top: 98%;
+    padding: 14px;
+}
+.allo
+{
+    gap: 20px;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: fit-content;
+
+}
+.wap2
+{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 20%;
+    position: relative;
+}
+.wap3
+{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 20%;
+    position: relative;
+}
+.last
+{
+    padding-top: 20%;
+}
+.ve-container:hover
+{
+    background-color: white;
+    color: #FFB400;
+    transition: 0.5s;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.end
+{
+    text-align: center;
+    padding: 100px;
+}
+.policy
+{
+    width: 850px;
+    height: 300px;
+}
